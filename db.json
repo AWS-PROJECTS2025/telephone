@@ -1,0 +1,9 @@
+{
+  "smartphones": [
+    {
+      "id": "16fe",
+      "nom": "iphone6",
+      "prix": 45000
+    }
+  ]
+}
