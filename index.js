@@ -74,6 +74,7 @@ function supprimerSmartphone(id) {
 function rafraichirTableau() {
     tableBody.innerHTML = '';
     smartphones.forEach(s => creerSmartphone(s.id, s.nom, s.prix));
+    location.reload()
 }
 
 // Écouteurs d'événements

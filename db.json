@@ -4,6 +4,11 @@
       "id": "16fe",
       "nom": "iphone6",
       "prix": 45000
+    },
+    {
+      "id": "d923",
+      "nom": "iphone 15",
+      "prix": "250000"
     }
   ]
 }
